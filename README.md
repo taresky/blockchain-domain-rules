@@ -16,6 +16,7 @@
 | ------------- | :----------------------------------------------------------- |
 | Binance       | binance.com<br />binance.cloud                                                 |
 | OKEX          | okex.com                                                     |
+| Huobi          | huobi.com                                                     |
 | DeBank        | debank.com                                                   |
 | ZKSwap        | zks.org<br />zks.app<br />zkswap.info                        |
 | Loopring      | loopring.org<br />loopring.io<br />loopring.network<br />api.loopring.network<br />ipdata.co |
@@ -24,6 +25,6 @@
 | imToken       | token.im<br />tongke.top<br />tongke.co<br />tokenlon.im                    |
 | OneKey        | onekey-asset.com<br />onekey.so                              |
 | 区块链123     | qkl123.com                                                   |
-
+| TradingView  | tradingview.com                                                  |
 ## 致谢
 [中国涉加密货币机构与项目陆续宣布关停与限制 —— 吴说](https://www.wu-talk.com/html/supervise/2021_2042.html)
